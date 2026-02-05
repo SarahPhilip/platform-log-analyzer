@@ -1,0 +1,3 @@
+Total errors: 2
+ERROR Disk not found
+ERROR Network timeout

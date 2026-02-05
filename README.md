@@ -1,11 +1,15 @@
+
 # Platform Log Analyzer
 
-Python tool to analyze system log files and detect errors.
+Python tool for analyzing system log files and detecting failures.
 
 ## Features
-- Detects ERROR lines
-- Counts failures
-- Prints summary
+- Parses log files
+- Detects ERROR entries
+- Generates summary reports
+- Supports command-line input
 
 ## Usage
-python3 main.py
+
+```bash
+python3 main.py sample.log
